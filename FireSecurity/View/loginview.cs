@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FireSecurity.View
 {
-    public partial class view : Form
+    public partial class Loginview : Form
     {
-        public view()
+        public Loginview()
         {
             InitializeComponent();
         }

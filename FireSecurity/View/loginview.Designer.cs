@@ -1,6 +1,6 @@
 ﻿namespace FireSecurity.View
 {
-    partial class view
+    partial class Loginview
     {
         /// <summary>
         /// Required designer variable.
